@@ -1,0 +1,1 @@
+350  [main] INFO  com.felix.bar.BarComponent - Hello from Bar.

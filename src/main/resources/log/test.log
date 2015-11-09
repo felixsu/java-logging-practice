@@ -1,0 +1,10 @@
+14:18:20.490 [main] INFO  c.f.b.BarComponent - Hello from Bar.
+14:19:13.509 [main] INFO  c.f.b.BarComponent - Hello from Bar.
+14:20:42.545 [main] INFO  c.f.b.BarComponent - Hello from Bar.
+14:22:51.535 [main] INFO  c.f.b.BarComponent - Hello from Bar.
+14:42:28.218 [main] INFO  c.f.b.BarComponent - Hello from Bar.
+14:47:54.368 [main] INFO  c.f.b.BarComponent - Hello from Bar.
+14:49:57.669 [main] INFO  c.f.b.BarComponent - Hello from Bar.
+14:50:23.642 [main] INFO  c.f.b.BarComponent - Hello from Bar.
+14:57:54.730 [main] INFO  c.f.b.BarComponent - Hello from Bar.
+15:42:55.594 [main] INFO  c.f.b.BarComponent - Hello from Bar.
